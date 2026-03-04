@@ -234,7 +234,8 @@ Perspectiva defensiva (Logs):
 <img width="844" height="251" alt="image" src="https://github.com/user-attachments/assets/e6c5f533-13ac-4b23-8066-f94dbfafbc82" />
 
 ## Perspectiva defensiva no servidor:
-<img width="810" height="154" alt="image" src="https://github.com/user-attachments/assets/8e942d35-f897-408d-833f-ca97fb3342f5" />
+<img width="810" height="154" alt="image" src="https://github.com/user-attachments/assets/61a22ba5-73d9-4ac9-933b-0ce3cdf96019" />
+
 
 ---
 
