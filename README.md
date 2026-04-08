@@ -232,16 +232,12 @@ Envia probes para extrair banner (versão)
 
 ---
 
-## Exemplo de um ataque Força Bruta SSH:
+## Exemplo de Força Bruta SSH:
 
 <img width="844" height="251" alt="image" src="https://github.com/user-attachments/assets/e6c5f533-13ac-4b23-8066-f94dbfafbc82" />
 
-## Perspectiva defensiva no servidor:
+## Perspectiva defensiva nos logs do servidor:
 <img width="810" height="154" alt="image" src="https://github.com/user-attachments/assets/61a22ba5-73d9-4ac9-933b-0ce3cdf96019" />
-
-
----
-
 
 ## Detecção com Wazuh
 
