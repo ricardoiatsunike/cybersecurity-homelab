@@ -1,3 +1,7 @@
+<p align="center">
+<a href="README.en-US.md">🌐English version</a>
+</p>
+
 ## Homelab de Cibersegurança com Wazuh e Metasploitable 3
 
 Documentação do desenvolvimento e uso de um ambiente controlado voltado ao estudo prático ofensivo e monitoramento defensivo.
