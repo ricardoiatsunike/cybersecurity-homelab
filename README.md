@@ -266,7 +266,9 @@ sudo systemctl restart wazuh-manager
 
 ---
 
-## Roadmap
+⚠️ Projeto pausado no momento.
+
+## Metas
 
 - Integração da VM Windows (win2k8)
 - Implementação de alertas baseados em MITRE ATT&CK
