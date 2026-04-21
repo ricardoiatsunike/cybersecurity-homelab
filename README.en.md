@@ -262,13 +262,6 @@ sudo systemctl restart wazuh-manager
 
 ⚠️ Project currently paused.
 
-## Goals
-
-- Integration of Windows VM (win2k8)
-- Implementation of alerts based on MITRE ATT&CK
-- Incident response simulation
-- Creation of SOC playbooks
-
 ---
 
 ## References
